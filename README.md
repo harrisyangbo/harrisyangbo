@@ -1,18 +1,19 @@
-### Hi there 👋
+## 欢迎访问我的 GitHub
+
+一个梦想改变世界却又不得不折服于世界的码农。
+
+
+### 擅长领域
+
+- PCWeb开发
+- 小程序开发
+- 应用开发
+
+### 主要技术栈
+
+- javascript
+- html
+- css
+- NodeJS
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=harrisyangbo&show_icons=true&theme=radical)
-
-<!--
-**harrisyangbo/harrisyangbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
